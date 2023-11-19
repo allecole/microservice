@@ -8,7 +8,7 @@
 # Recieve Data
 1) To receive data, request data with the subproccess call, then take the stdout of the microservice either sending JSON file or error message.
 2) With the stdout of the json data, use json.loads in order to turn string back into a json string type.
-3) Then either save jsoin file via a write loop using json.dump(), or use data using correct json syntax (as seen in example).
+3) Then either save json file via a write loop using json.dump(), or use data using correct json syntax (as seen in example).
    
 # Example use of service
 <img width="601" alt="image" src="https://github.com/allecole/microservice/assets/107892544/e526152e-0667-4484-b82c-2c0f8b9290c3">
