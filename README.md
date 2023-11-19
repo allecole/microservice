@@ -1,5 +1,9 @@
-# microservice
+# API Microservice
 
+
+
+# Example use of service
+<img width="601" alt="image" src="https://github.com/allecole/microservice/assets/107892544/e526152e-0667-4484-b82c-2c0f8b9290c3">
 
 
 # UML Diagram
